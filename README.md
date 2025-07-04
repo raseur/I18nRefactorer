@@ -4,7 +4,7 @@
 Automatically refactor your Java Android files by replacing all user-facing hardcoded strings with references to existing `strings.xml` resources!  
 This tool uses OpenAI and provides a Streamlit interface for step-by-step processing, live feedback, correction suggestions, and perfectly formatted output code for seamless Android internationalization.
 
-![Screenshot](img/interface.png)
+![Screenshot](interface.png)
 
 ## Features
 
